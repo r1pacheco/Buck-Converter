@@ -6,6 +6,9 @@ limit a linear range of voltage pass. We have high input voltage (between 12V an
 opt for screw terminal input, but use molex outpit pins for the lower voltage output as the
 load for this board is a ESP8266 wifi MC that has molex input pins for power.
 
+![Buck_Converter](https://user-images.githubusercontent.com/60334970/135767528-182aac93-f558-4b78-920b-60639ebcf39b.png)
+
+
 --------------------------------------PARTS---------------------------------------
 
 Simple Switcher:
