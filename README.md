@@ -7,6 +7,7 @@ opt for screw terminal input, but use molex outpit pins for the lower voltage ou
 load for this board is a ESP8266 wifi MC that has molex input pins for power.
 
 --------------------------------------PARTS---------------------------------------
+
 Simple Switcher:
 https://www.digikey.ca/en/products/detail/texas-instruments/LM2576SX-3-3-NOPB/366792
 
